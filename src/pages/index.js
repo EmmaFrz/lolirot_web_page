@@ -1,10 +1,9 @@
 import React from "react";
-//import { Link } from "gatsby";
-import Hero from '../components/HeroIndex';
+import Hero from '../components/Home/HeroIndex';
 import Layout from "../components/layout";
-import Discover from '../components/Discover';
-import Network from '../components/Network';
-import MyStream from "../components/MyStream";
+import Discover from '../components/Home/Discover';
+import Network from '../components/Home/Network';
+import MyStream from "../components/Home/MyStream";
 
 const IndexPage = (props) => (
   <Layout>

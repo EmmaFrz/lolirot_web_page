@@ -1,5 +1,5 @@
 import React from "react";
-import ProfilePic from '../assets/images/luli.jpg';
+import ProfilePic from '../../assets/images/luli.jpg';
 
 const Discover = () => {
     return(
